@@ -600,9 +600,9 @@ a {
   }
 }
 .hero-area .hero-area-slider .single-slider-item h1, .hero-area .hero-area-slider .single-slider-item .h1 {
-  font-size: 60px;
+  font-size: 25px;
   font-weight: 700;
-  line-height: 66px;
+  line-height: 35px;
 }
 @media only screen and (max-width: 575px) {
   .hero-area .hero-area-slider .single-slider-item h1, .hero-area .hero-area-slider .single-slider-item .h1 {
