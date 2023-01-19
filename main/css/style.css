@@ -588,8 +588,8 @@ a {
   border: 1px solid #3B3B3B;
 }
 .hero-area .hero-area-slider .owl-dots button.owl-dot.active {
-  background-color: #373737;
-  border: 1px solid #373737;
+  background-color: #fff;
+  border: 1px solid #fff;
 }
 .hero-area .hero-area-slider .single-slider-item {
   display: flex;
@@ -2131,7 +2131,7 @@ header.sticky .header__lower {
 }
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide .thmb-row .thmb-info span em {
   font-style: italic;
-  color: #fecc17;
+  color: #ff1617;
 }
 
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide {
@@ -2208,7 +2208,7 @@ button.owl-prev {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  border: 1px solid #fecc17 !important;
+  border: 1px solid #ff1617 !important;
   position: absolute;
   top: -13%;
   left: 15px;
@@ -2218,7 +2218,7 @@ button.owl-prev {
 }
 button.owl-prev .fa-angle-left::before {
   font-size: 30px;
-  color: #fecc17;
+  color: #ff1617;
 }
 
 button.owl-next {
@@ -2226,7 +2226,7 @@ button.owl-next {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  border: 1px solid #fecc17 !important;
+  border: 1px solid #ff1617 !important;
   position: absolute;
   top: -13%;
   right: 15px;
@@ -2236,7 +2236,7 @@ button.owl-next {
 }
 button.owl-next .fa-angle-right::before {
   font-size: 30px;
-  color: #fecc17;
+  color: #ff1617;
 }
 
 @media only screen and (max-width: 991px) {
