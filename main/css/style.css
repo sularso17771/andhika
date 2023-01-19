@@ -838,7 +838,7 @@ a {
 .blog-posts-v10 .post-v10 .post-info .category,
 .blog-posts-v10 .post-v10 .post-info > h2:hover,
 .blog-posts-v10 .post-v10 .post-info > .h2:hover {
-  color: #f59e31;
+  color: #ff1617;
 }
 
 .single-team-member {
@@ -1673,7 +1673,7 @@ header.sticky .header-content .btn-default:hover {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-top: 10px solid #f59e31;
+  border-top: 10px solid #ff1617;
   position: absolute;
   top: 50%;
   right: 20px;
@@ -1692,7 +1692,7 @@ header.sticky .header-content .btn-default:hover {
   visibility: visible;
 }
 .responsive-menu .mobile-menu > li.menu-item-has-children.active > a {
-  color: #f59e31;
+  color: #ff1617;
 }
 .responsive-menu .mobile-menu > li.menu-item-has-children.active > a:before {
   content: "";
@@ -1700,7 +1700,7 @@ header.sticky .header-content .btn-default:hover {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-top: 10px solid #f59e31;
+  border-top: 10px solid #ff1617;
   font-size: 0;
   line-height: 0;
   float: left;
@@ -2096,7 +2096,7 @@ header.sticky .header__lower {
   position: absolute;
   bottom: 59px;
   right: 60px;
-  color: #f59e31;
+  color: #ff1617;
   font-size: 47px;
 }
 .testimonial-sec .testimonial-slider .testimo-slider .testimonial-slide p {
@@ -2921,11 +2921,11 @@ footer.theme-2 {
   border-radius: 50%;
 }
 .page-content .featured-post-slider .slick-dots li.slick-active:before {
-  background-color: #f59e31;
+  background-color: #ff1617;
 }
 .page-content .featured-post-slider .slick-dots li.slick-active button {
   background-color: transparent;
-  border-color: #f59e31;
+  border-color: #ff1617;
 }
 
 .page-sec-title {
@@ -2959,7 +2959,7 @@ footer.theme-2 {
 .blog-posts-v10 .post-v10 .post-info .category,
 .blog-posts-v10 .post-v10 .post-info > h2:hover,
 .blog-posts-v10 .post-v10 .post-info > .h2:hover {
-  color: #f59e31;
+  color: #ff1617;
 }
 
 /*--------------------------------------------------------------
@@ -3058,11 +3058,11 @@ footer.theme-2 {
   border-radius: 50%;
 }
 .page-content .featured-post-slider .slick-dots li.slick-active:before {
-  background-color: #f59e31;
+  background-color: #ff1617;
 }
 .page-content .featured-post-slider .slick-dots li.slick-active button {
   background-color: transparent;
-  border-color: #f59e31;
+  border-color: #ff1617;
 }
 
 .single-post-meta {
@@ -3112,7 +3112,7 @@ footer.theme-2 {
 }
 .single-post-meta .meta li a.category {
   text-transform: uppercase;
-  color: #f59e31;
+  color: #ff1617;
   font-weight: 700;
 }
 
@@ -3307,10 +3307,10 @@ footer.theme-2 {
 }
 .featured-post-sec .featured-post .featured-post-text .btn-default {
   background-color: #fff;
-  color: #f59e31;
+  color: #ff1617;
 }
 .featured-post-sec .featured-post .featured-post-text .btn-default:hover {
-  background-color: #f59e31;
+  background-color: #ff1617;
   color: #fff;
 }
 .featured-post-sec .featured-post .vector-img img {
@@ -3583,7 +3583,7 @@ li {
   position: absolute;
   top: 0;
   right: 0;
-  color: #f59e31;
+  color: #ff1617;
   font-size: 48px;
 }
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info blockquote p {
@@ -3632,7 +3632,7 @@ li {
   line-height: 28px;
 }
 .single-post-layout1 .blog-posts-layout2 .bg-post .bg-post-info .post-cont .post-tags li a:hover {
-  background-color: #f59e31;
+  background-color: #ff1617;
   color: #fff;
   border-color: transparent;
 }
@@ -3863,7 +3863,7 @@ li {
   color: #fff;
   font-size: 20px;
   font-weight: 500;
-  background-color: #f59e31;
+  background-color: #ff1617;
   height: 62px;
   line-height: 62px;
   padding: 0 42px;
